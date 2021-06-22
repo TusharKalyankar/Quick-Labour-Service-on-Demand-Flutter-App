@@ -6,13 +6,20 @@ You can choose whatever you desire.
 
 ![](images/Screenshot%20(562).png)
 
-User Login Page , If you dont have your account Just Sign up as New one, Forgot Password also available.
+User Registration for New User When you click on Sign up at Login Screen
 
 ![](images/Screenshot%20(563).png)
 
+
+User Login Page , If you dont have your account Just Sign up as New one, Forgot Password also available.
+
 ![](images/Screenshot%20(564).png)
 
+Your Profile Page
+
 ![](images/Screenshot%20(565).png)
+
+From NavBar at Bottom you can Navigate to Search,Payment,Profile Update
 
 ![](images/Screenshot%20(566).png)
 
