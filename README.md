@@ -6,6 +6,7 @@ You can choose whatever you desire.
 
 ![](images/Screenshot%20(562).png)
 
+<<<<<<< HEAD
 User Registration for New User When you click on Sign up at Login Screen.
 Same is for Worker.
 
@@ -27,6 +28,16 @@ Search Page, You can type your desired City and Which worker you need from the D
 Note: Worker has to Register himself/herself with the City or the Occupation in order to work.
       Else error will pop out.
 
+=======
+User Login Page , If you dont have your account Just Sign up as New one, Forgot Password also available.
+
+![](images/Screenshot%20(563).png)
+
+![](images/Screenshot%20(564).png)
+
+![](images/Screenshot%20(565).png)
+
+>>>>>>> parent of 0ed8d74 (Update README.md)
 ![](images/Screenshot%20(566).png)
 
 Update Profile for User.
